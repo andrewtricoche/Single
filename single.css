@@ -1,1 +1,111 @@
-s
+.wrap {
+text-align: center;
+font-size: 25px;
+font-family: sans-serif;
+color: rosybrown;
+font-variant: small-caps;
+line-height: 100px;
+}
+
+.title {
+font-variant: small-caps;
+font-size: 25px;
+}
+
+.headers {
+font-size: 25px;
+}
+
+.box {
+width: 65px;
+height: 25px;
+margin-bottom: -25px;
+margin-top: -25px;
+
+}
+
+.grey1 {
+background: #f1eded;
+margin-left: 255px;
+}
+
+.grey2 {
+background: #c9c7c7;
+margin-left: 355px;
+}
+.grey3 {
+background: #878383;
+margin-left: 455px;
+}
+.grey4 {
+background: #5a5a5a;
+margin-left: 555px;
+}
+.grey5 {
+background: #242323;
+margin-left: 655px;
+}
+
+.cool1 {
+background: #1b11b6;
+margin-left: 255px;
+}
+
+.cool2 {
+background: #0b8eec;
+margin-left: 355px;
+}
+.cool3 {
+background: #17ba68;
+margin-left: 455px;
+}
+.cool4 {
+background: #7c1bc5;
+margin-left: 555px;
+}
+.cool5 {
+background: #4bcfcf;
+margin-left: 655px;
+}
+.warm1 {
+background: #f6ef0a;
+margin-left: 255px;
+}
+
+.warm2 {
+background: #c9f054;
+margin-left: 355px;
+}
+.warm3 {
+background: #f29b19;
+margin-left: 455px;
+}
+.warm4 {
+background: #f86b06;
+margin-left: 555px;
+}
+.warm5 {
+background: #f80606;
+margin-left: 655px;
+}
+.mono1 {
+background: #fff700;
+margin-left: 255px;
+}
+
+.mono2 {
+background: #e8e004;
+margin-left: 355px;
+}
+.mono3 {
+background: #bab622;
+margin-left: 455px;
+}
+.mono4 {
+background: #f86b06;
+margin-left: 555px;
+}
+.mono5 {
+background: #f80606;
+margin-left: 655px;
+}
